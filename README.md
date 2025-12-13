@@ -2,7 +2,7 @@ Hey there 👋
 
 My name is Darsh Rathod, I am pursuing  B.E. in AIML from L.D. College of Engineering.
 
-I'm currently in the final year of my Bachelor's Degree and also I'm the Co-founder at Agulous. I'm also the President of Rotaract Club of LDCE and a past Dep. PSD.
+I'm currently in the final year of my Bachelor's Degree and I'm the Co-founder at Agulous. I'm also the President of Rotaract Club of LDCE and a past Dep. PSD.
 
 I have a keen interest in Machine Learning and Cybersecurity and OSINT.
 
