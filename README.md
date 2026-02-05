@@ -2,7 +2,7 @@ Hey there 👋
 
 My name is Darsh Rathod, I am pursuing  B.E. in AIML from L.D. College of Engineering.
 
-I'm a Co-founder of Agulous and also the President of Rotaract Club of LDCE (2025 - 26) and a past Dep. PSD (2024 - 25).
+I'm a Co-founder of Agulous and also the President of Rotaract Club of LDCE (2025 - 26) and past Dep. PSD (2024 - 25).
 
 I have a keen interest in Machine Learning and Cybersecurity and OSINT.
 
@@ -18,5 +18,6 @@ Git | GitHub | Linux | NumPy | Pandas | Scikit-learn | TensorFlow | OpenCV | Nma
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning DL
 - 👯 I’m looking to collaborate on any open source projects in particular
-- 📫 How to reach me: darsh.r1203 (instagram, linkedin)
+- 📫 How to reach me: Linkedin: [Darsh Rathod](https://www.linkedin.com/in/darsh-rathod-a731a7253/)
+                       Instagram: [darsh.r1203](https://www.instagram.com/darsh.r1203/)
 - 😄 Pronouns: He/Him
